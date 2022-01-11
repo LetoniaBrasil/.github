@@ -1,5 +1,5 @@
 # Letonia Brasil
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LetoniaBrasil) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LetoniaBrasil/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/LetoniaBrasil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/letoniabrasil)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LetoniaBrasil/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/LetoniaBrasil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/letoniabrasil)
 
 _Letonia Brasil_ is the front of the Associação Brasileira de Cultura Leta (Brazilian Association of Latvian Culture) and its associate organizations and projects in social media. 
 
@@ -13,12 +13,14 @@ Some minor points that need to be cleared:
 ## To Do
 
 Currently, on 11/01/2021, we need to:
--  Integrate the LetoniaBrasil website on this organization repository
+- Integrate the LetoniaBrasil website on this organization repository
 - Reestructure the Media Department for the year of 2022.
 - Create the LinkedIn
 	- Create the LinkedIN
 	- Add current and old members
 	- Add the link on this readme as well
 - Make a more complete readme
+	- Readme in Subprojects as well.
+	- Clean the github
 - Work on the ZINA project
 
